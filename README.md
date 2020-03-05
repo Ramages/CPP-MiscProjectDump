@@ -1,2 +1,2 @@
 # CPP-MiscProjectDump
-This is just smaller programs for practice and learning C++
+This is just smaller programs for practicing and learning C++
